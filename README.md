@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 SIP Calculator
+# 🧮 SIP Calculator
 
 ### Use SIP Calculator free on ToolAdda — quick, accurate, and browser-based.
 
